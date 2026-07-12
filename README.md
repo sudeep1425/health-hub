@@ -176,10 +176,3 @@ The Vite dev server proxies all `/api/*` requests to `http://localhost:5000` —
 - Server-side validation on all POST/PUT endpoints
 
 ---
-
-## Default Admin Credentials
-
-> ⚠️ Change these in production!
-
-- Email: `admin@healthhub.com`
-- Password: `admin123`
